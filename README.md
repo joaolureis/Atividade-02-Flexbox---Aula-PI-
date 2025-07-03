@@ -1,2 +1,2 @@
-# Atividade-02-Flexbox---Aula-PI-
-Atividade Flexbox 02
+# Atividade Flexbox 02 
+Este repositório é destinado a Aula de PI - SPTech School
