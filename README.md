@@ -1,2 +1,3 @@
-# Atividade Flexbox 02 
-Este repositório é destinado a Aula de PI - SPTech School
+# Activity - Flexbox 02 
+Atividade Flexbox 2 - atividade desenvolvida com base em um desafio acadêmico proposto na disciplina de Pesquisa e Inovação, durante o primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS) na SPTech.
+
